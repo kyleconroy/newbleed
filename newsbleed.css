@@ -1,0 +1,8 @@
+#pagelet_trending_tags_and_topics,
+div.fbFeedTicker {
+  display: none;
+}
+
+div[data-testid='fbfeed_story'] {
+  visibility: hidden;
+}

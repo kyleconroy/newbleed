@@ -2,8 +2,14 @@
   "manifest_version": 2,
 
   "name": "Newsbleed",
-  "description": "Hide all news from the news feed",
-  "version": "1.0",
+  "description": "Leave the filter bubble behind",
+  "version": "1.0.1",
+
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
 
   "content_scripts": [
     {

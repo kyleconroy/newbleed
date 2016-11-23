@@ -1,4 +1,5 @@
-Leave the filter bubble behind. This extension hides the news feed, trending
-topics, and the activity ticker.
+Leave the filter bubble behind. Newsbleed hides the news feed, trending topics,
+and the activity ticker. At only five lines of CSS, it's incredibly
+lightweight. 
 
-In the future, I'd love to make the filtering more granual.
+[![Chrome Store Logo](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/newsbleed/chghfmbadidjakkanfjolanepgmjghja)
